@@ -1,0 +1,996 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FaezehMahdiSchedule//MobileAlarmPackage//FA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:برنامه‌ی مهدی (روزانه، هفتگی و ماهانه)
+X-WR-TIMEZONE:Asia/Tehran
+BEGIN:VEVENT
+UID:mahdi_fri_1@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261023T080000
+DTEND;TZID=Asia/Tehran:20261023T090000
+RRULE:FREQ=WEEKLY;BYDAY=FR
+SUMMARY:بیدارشدن آرام و صبحانه‌ی سالم + مصرف مکمل B-Complex همراه صبحانه
+DESCRIPTION:برنامه‌ی مهدی - جمعه (08:00 تا 09:00)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: بیدارشدن آرام و صبحانه‌ی سالم + مصرف مکمل B-Complex همراه صبحانه
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_fri_2@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261023T090000
+DTEND;TZID=Asia/Tehran:20261023T100000
+RRULE:FREQ=WEEKLY;BYDAY=FR
+SUMMARY:تمرین انگلیسی؛ ۲۰ دقیقه مکالمه‌ی دونفره
+DESCRIPTION:برنامه‌ی مهدی - جمعه (09:00 تا 10:00)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: تمرین انگلیسی؛ ۲۰ دقیقه مکالمه‌ی دونفره
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_fri_3@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261023T100000
+DTEND;TZID=Asia/Tehran:20261023T113000
+RRULE:FREQ=WEEKLY;BYDAY=FR
+SUMMARY:پیاده‌روی یا پیک‌نیک، تماشای شهر و عکس دونفره
+DESCRIPTION:برنامه‌ی مهدی - جمعه (10:00 تا 11:30)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: پیاده‌روی یا پیک‌نیک، تماشای شهر و عکس دونفره
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_fri_4@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261023T113000
+DTEND;TZID=Asia/Tehran:20261023T120000
+RRULE:FREQ=WEEKLY;BYDAY=FR
+SUMMARY:آماده‌شدن برای ورزش، میان‌وعده و مسیر باشگاه
+DESCRIPTION:برنامه‌ی مهدی - جمعه (11:30 تا 12:00)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: آماده‌شدن برای ورزش، میان‌وعده و مسیر باشگاه
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_fri_5@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261023T120000
+DTEND;TZID=Asia/Tehran:20261023T133000
+RRULE:FREQ=WEEKLY;BYDAY=FR
+SUMMARY:باشگاه طبق برنامه‌ی شخصی (نوبت ظهر جمعه ـ ساعت ۱۲:۰۰)
+DESCRIPTION:برنامه‌ی مهدی - جمعه (12:00 تا 13:30)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: باشگاه طبق برنامه‌ی شخصی (نوبت ظهر جمعه ـ ساعت ۱۲:۰۰)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_fri_6@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261023T133000
+DTEND;TZID=Asia/Tehran:20261023T143000
+RRULE:FREQ=WEEKLY;BYDAY=FR
+SUMMARY:برگشت به خانه، دوش و ناهار سالم + مصرف مکمل Vitamin D همراه ناهار
+DESCRIPTION:برنامه‌ی مهدی - جمعه (13:30 تا 14:30)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: برگشت به خانه، دوش و ناهار سالم + مصرف مکمل Vitamin D همراه ناهار
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_fri_7@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261023T143000
+DTEND;TZID=Asia/Tehran:20261023T153000
+RRULE:FREQ=WEEKLY;BYDAY=FR
+SUMMARY:استراحت بعد از تمرین و وقت شخصی
+DESCRIPTION:برنامه‌ی مهدی - جمعه (14:30 تا 15:30)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: استراحت بعد از تمرین و وقت شخصی
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_fri_8@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261023T153000
+DTEND;TZID=Asia/Tehran:20261023T173000
+RRULE:FREQ=WEEKLY;BYDAY=FR
+SUMMARY:قرار کتاب‌فروشی و کافه؛ خرید دفتر آرزوها فقط بار اول
+DESCRIPTION:برنامه‌ی مهدی - جمعه (15:30 تا 17:30)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: قرار کتاب‌فروشی و کافه؛ خرید دفتر آرزوها فقط بار اول
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_fri_9@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261023T173000
+DTEND;TZID=Asia/Tehran:20261023T183000
+RRULE:FREQ=WEEKLY;BYDAY=FR
+SUMMARY:برگشت و گفت‌وگوی بدون گوشی درباره‌ی حال رابطه و نیازها
+DESCRIPTION:برنامه‌ی مهدی - جمعه (17:30 تا 18:30)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: برگشت و گفت‌وگوی بدون گوشی درباره‌ی حال رابطه و نیازها
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_fri_10@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261023T183000
+DTEND;TZID=Asia/Tehran:20261023T200000
+RRULE:FREQ=WEEKLY;BYDAY=FR
+SUMMARY:نوشتن یک خاطره در دفتر، شام و استراحت
+DESCRIPTION:برنامه‌ی مهدی - جمعه (18:30 تا 20:00)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: نوشتن یک خاطره در دفتر، شام و استراحت
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_fri_11@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261023T200000
+DTEND;TZID=Asia/Tehran:20261023T220000
+RRULE:FREQ=WEEKLY;BYDAY=FR
+SUMMARY:شب فیلم یا بازی دونفره
+DESCRIPTION:برنامه‌ی مهدی - جمعه (20:00 تا 22:00)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: شب فیلم یا بازی دونفره
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_fri_12@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261023T220000
+DTEND;TZID=Asia/Tehran:20261023T230000
+RRULE:FREQ=WEEKLY;BYDAY=FR
+SUMMARY:آماده‌کردن وسایل شنبه، شارژ جعبه‌ی هفتگی مکمل‌ها (B-Complex و Vitamin D) و خواب
+DESCRIPTION:برنامه‌ی مهدی - جمعه (22:00 تا 23:00)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: آماده‌کردن وسایل شنبه، شارژ جعبه‌ی هفتگی مکمل‌ها (B-Complex و Vitamin D) و خواب
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_sat_1@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261024T060000
+DTEND;TZID=Asia/Tehran:20261024T063000
+RRULE:FREQ=WEEKLY;BYDAY=SA
+SUMMARY:بیدارشدن، صبحانه و آماده‌شدن + مصرف مکمل B-Complex همراه صبحانه
+DESCRIPTION:برنامه‌ی مهدی - شنبه (06:00 تا 06:30)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: بیدارشدن، صبحانه و آماده‌شدن + مصرف مکمل B-Complex همراه صبحانه
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_sat_2@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261024T063000
+DTEND;TZID=Asia/Tehran:20261024T070000
+RRULE:FREQ=WEEKLY;BYDAY=SA
+SUMMARY:هماهنگی و رفتن به پژوهشکده
+DESCRIPTION:برنامه‌ی مهدی - شنبه (06:30 تا 07:00)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: هماهنگی و رفتن به پژوهشکده
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_sat_3@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261024T070000
+DTEND;TZID=Asia/Tehran:20261024T153000
+RRULE:FREQ=WEEKLY;BYDAY=SA
+SUMMARY:پژوهشکده؛ کارهای پژوهشی و ناهار، با استراحت‌های کوتاه + مصرف Vitamin D همراه ناهار
+DESCRIPTION:برنامه‌ی مهدی - شنبه (07:00 تا 15:30)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: پژوهشکده؛ کارهای پژوهشی و ناهار، با استراحت‌های کوتاه + مصرف Vitamin D همراه ناهار
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_sat_4@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261024T153000
+DTEND;TZID=Asia/Tehran:20261024T160000
+RRULE:FREQ=WEEKLY;BYDAY=SA
+SUMMARY:مسیر باشگاه و میان‌وعده‌ی قبل تمرین
+DESCRIPTION:برنامه‌ی مهدی - شنبه (15:30 تا 16:00)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: مسیر باشگاه و میان‌وعده‌ی قبل تمرین
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_sat_5@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261024T160000
+DTEND;TZID=Asia/Tehran:20261024T173000
+RRULE:FREQ=WEEKLY;BYDAY=SA
+SUMMARY:باشگاه طبق برنامه‌ی شخصی
+DESCRIPTION:برنامه‌ی مهدی - شنبه (16:00 تا 17:30)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: باشگاه طبق برنامه‌ی شخصی
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_sat_6@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261024T173000
+DTEND;TZID=Asia/Tehran:20261024T183000
+RRULE:FREQ=WEEKLY;BYDAY=SA
+SUMMARY:برگشت به خانه، دوش، تغذیه‌ی بعد تمرین و استراحت
+DESCRIPTION:برنامه‌ی مهدی - شنبه (17:30 تا 18:30)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: برگشت به خانه، دوش، تغذیه‌ی بعد تمرین و استراحت
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_sat_7@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261024T183000
+DTEND;TZID=Asia/Tehran:20261024T191500
+RRULE:FREQ=WEEKLY;BYDAY=SA
+SUMMARY:تمرین زبان و مرور واژگان
+DESCRIPTION:برنامه‌ی مهدی - شنبه (18:30 تا 19:15)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: تمرین زبان و مرور واژگان
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_sat_8@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261024T191500
+DTEND;TZID=Asia/Tehran:20261024T200000
+RRULE:FREQ=WEEKLY;BYDAY=SA
+SUMMARY:شام و استراحت
+DESCRIPTION:برنامه‌ی مهدی - شنبه (19:15 تا 20:00)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: شام و استراحت
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_sat_9@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261024T200000
+DTEND;TZID=Asia/Tehran:20261024T220000
+RRULE:FREQ=WEEKLY;BYDAY=SA
+SUMMARY:۲۰ تا ۲۱: مقاله یا پایان‌نامه؛ ۲۱ تا ۲۲: وقت شخصی؛ فرفری جونت کلاس دارد
+DESCRIPTION:برنامه‌ی مهدی - شنبه (20:00 تا 22:00)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: ۲۰ تا ۲۱: مقاله یا پایان‌نامه؛ ۲۱ تا ۲۲: وقت شخصی؛ فرفری جونت کلاس دارد
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_sat_10@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261024T220000
+DTEND;TZID=Asia/Tehran:20261024T230000
+RRULE:FREQ=WEEKLY;BYDAY=SA
+SUMMARY:گفت‌وگوی کوتاه، جمع‌کردن وسایل فردا و خواب؛ بدون کار سنگین
+DESCRIPTION:برنامه‌ی مهدی - شنبه (22:00 تا 23:00)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: گفت‌وگوی کوتاه، جمع‌کردن وسایل فردا و خواب؛ بدون کار سنگین
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_sun_1@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261025T060000
+DTEND;TZID=Asia/Tehran:20261025T063000
+RRULE:FREQ=WEEKLY;BYDAY=SU
+SUMMARY:بیدارشدن، صبحانه و آماده‌شدن + مصرف مکمل B-Complex همراه صبحانه
+DESCRIPTION:برنامه‌ی مهدی - یکشنبه (06:00 تا 06:30)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: بیدارشدن، صبحانه و آماده‌شدن + مصرف مکمل B-Complex همراه صبحانه
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_sun_2@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261025T063000
+DTEND;TZID=Asia/Tehran:20261025T070000
+RRULE:FREQ=WEEKLY;BYDAY=SU
+SUMMARY:هماهنگی و رفتن به پژوهشکده
+DESCRIPTION:برنامه‌ی مهدی - یکشنبه (06:30 تا 07:00)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: هماهنگی و رفتن به پژوهشکده
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_sun_3@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261025T070000
+DTEND;TZID=Asia/Tehran:20261025T153000
+RRULE:FREQ=WEEKLY;BYDAY=SU
+SUMMARY:پژوهشکده؛ کارهای پژوهشی و ناهار، با استراحت‌های کوتاه + مصرف Vitamin D همراه ناهار
+DESCRIPTION:برنامه‌ی مهدی - یکشنبه (07:00 تا 15:30)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: پژوهشکده؛ کارهای پژوهشی و ناهار، با استراحت‌های کوتاه + مصرف Vitamin D همراه ناهار
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_sun_4@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261025T153000
+DTEND;TZID=Asia/Tehran:20261025T160000
+RRULE:FREQ=WEEKLY;BYDAY=SU
+SUMMARY:مسیر باشگاه و میان‌وعده‌ی قبل تمرین
+DESCRIPTION:برنامه‌ی مهدی - یکشنبه (15:30 تا 16:00)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: مسیر باشگاه و میان‌وعده‌ی قبل تمرین
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_sun_5@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261025T160000
+DTEND;TZID=Asia/Tehran:20261025T173000
+RRULE:FREQ=WEEKLY;BYDAY=SU
+SUMMARY:باشگاه طبق برنامه‌ی شخصی
+DESCRIPTION:برنامه‌ی مهدی - یکشنبه (16:00 تا 17:30)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: باشگاه طبق برنامه‌ی شخصی
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_sun_6@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261025T173000
+DTEND;TZID=Asia/Tehran:20261025T183000
+RRULE:FREQ=WEEKLY;BYDAY=SU
+SUMMARY:برگشت به خانه، دوش، تغذیه‌ی بعد تمرین و استراحت
+DESCRIPTION:برنامه‌ی مهدی - یکشنبه (17:30 تا 18:30)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: برگشت به خانه، دوش، تغذیه‌ی بعد تمرین و استراحت
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_sun_7@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261025T183000
+DTEND;TZID=Asia/Tehran:20261025T191500
+RRULE:FREQ=WEEKLY;BYDAY=SU
+SUMMARY:خواندن کتاب مشترک و صحبت کوتاه درباره‌ی آن
+DESCRIPTION:برنامه‌ی مهدی - یکشنبه (18:30 تا 19:15)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: خواندن کتاب مشترک و صحبت کوتاه درباره‌ی آن
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_sun_8@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261025T191500
+DTEND;TZID=Asia/Tehran:20261025T200000
+RRULE:FREQ=WEEKLY;BYDAY=SU
+SUMMARY:شام و استراحت
+DESCRIPTION:برنامه‌ی مهدی - یکشنبه (19:15 تا 20:00)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: شام و استراحت
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_sun_9@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261025T200000
+DTEND;TZID=Asia/Tehran:20261025T210000
+RRULE:FREQ=WEEKLY;BYDAY=SU
+SUMMARY:کمک متقابل برای مقاله یا پایان‌نامه؛ یک کار مشخص
+DESCRIPTION:برنامه‌ی مهدی - یکشنبه (20:00 تا 21:00)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: کمک متقابل برای مقاله یا پایان‌نامه؛ یک کار مشخص
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_sun_10@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261025T210000
+DTEND;TZID=Asia/Tehran:20261025T230000
+RRULE:FREQ=WEEKLY;BYDAY=SU
+SUMMARY:گفت‌وگوی صمیمی، زمان آزاد و آماده‌شدن برای خواب
+DESCRIPTION:برنامه‌ی مهدی - یکشنبه (21:00 تا 23:00)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: گفت‌وگوی صمیمی، زمان آزاد و آماده‌شدن برای خواب
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_mon_1@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261026T060000
+DTEND;TZID=Asia/Tehran:20261026T063000
+RRULE:FREQ=WEEKLY;BYDAY=MO
+SUMMARY:بیدارشدن، صبحانه و آماده‌شدن + مصرف مکمل B-Complex همراه صبحانه
+DESCRIPTION:برنامه‌ی مهدی - دوشنبه (06:00 تا 06:30)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: بیدارشدن، صبحانه و آماده‌شدن + مصرف مکمل B-Complex همراه صبحانه
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_mon_2@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261026T063000
+DTEND;TZID=Asia/Tehran:20261026T070000
+RRULE:FREQ=WEEKLY;BYDAY=MO
+SUMMARY:هماهنگی و رفتن به پژوهشکده
+DESCRIPTION:برنامه‌ی مهدی - دوشنبه (06:30 تا 07:00)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: هماهنگی و رفتن به پژوهشکده
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_mon_3@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261026T070000
+DTEND;TZID=Asia/Tehran:20261026T153000
+RRULE:FREQ=WEEKLY;BYDAY=MO
+SUMMARY:پژوهشکده؛ کارهای پژوهشی و ناهار، با استراحت‌های کوتاه + مصرف Vitamin D همراه ناهار
+DESCRIPTION:برنامه‌ی مهدی - دوشنبه (07:00 تا 15:30)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: پژوهشکده؛ کارهای پژوهشی و ناهار، با استراحت‌های کوتاه + مصرف Vitamin D همراه ناهار
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_mon_4@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261026T153000
+DTEND;TZID=Asia/Tehran:20261026T160000
+RRULE:FREQ=WEEKLY;BYDAY=MO
+SUMMARY:مسیر باشگاه و میان‌وعده‌ی قبل تمرین
+DESCRIPTION:برنامه‌ی مهدی - دوشنبه (15:30 تا 16:00)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: مسیر باشگاه و میان‌وعده‌ی قبل تمرین
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_mon_5@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261026T160000
+DTEND;TZID=Asia/Tehran:20261026T173000
+RRULE:FREQ=WEEKLY;BYDAY=MO
+SUMMARY:باشگاه طبق برنامه‌ی شخصی
+DESCRIPTION:برنامه‌ی مهدی - دوشنبه (16:00 تا 17:30)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: باشگاه طبق برنامه‌ی شخصی
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_mon_6@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261026T173000
+DTEND;TZID=Asia/Tehran:20261026T183000
+RRULE:FREQ=WEEKLY;BYDAY=MO
+SUMMARY:برگشت به خانه، دوش، تغذیه‌ی بعد تمرین و استراحت
+DESCRIPTION:برنامه‌ی مهدی - دوشنبه (17:30 تا 18:30)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: برگشت به خانه، دوش، تغذیه‌ی بعد تمرین و استراحت
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_mon_7@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261026T183000
+DTEND;TZID=Asia/Tehran:20261026T191500
+RRULE:FREQ=WEEKLY;BYDAY=MO
+SUMMARY:یادگیری هوش مصنوعی و تمرین یک مهارت
+DESCRIPTION:برنامه‌ی مهدی - دوشنبه (18:30 تا 19:15)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: یادگیری هوش مصنوعی و تمرین یک مهارت
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_mon_8@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261026T191500
+DTEND;TZID=Asia/Tehran:20261026T200000
+RRULE:FREQ=WEEKLY;BYDAY=MO
+SUMMARY:شام و استراحت
+DESCRIPTION:برنامه‌ی مهدی - دوشنبه (19:15 تا 20:00)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: شام و استراحت
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_mon_9@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261026T200000
+DTEND;TZID=Asia/Tehran:20261026T220000
+RRULE:FREQ=WEEKLY;BYDAY=MO
+SUMMARY:۲۰ تا ۲۱: به‌روزرسانی پورتفولیو یا لینکدین؛ ۲۱ تا ۲۲: وقت شخصی؛ فرفری جونت کلاس دارد
+DESCRIPTION:برنامه‌ی مهدی - دوشنبه (20:00 تا 22:00)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: ۲۰ تا ۲۱: به‌روزرسانی پورتفولیو یا لینکدین؛ ۲۱ تا ۲۲: وقت شخصی؛ فرفری جونت کلاس دارد
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_mon_10@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261026T220000
+DTEND;TZID=Asia/Tehran:20261026T230000
+RRULE:FREQ=WEEKLY;BYDAY=MO
+SUMMARY:گفت‌وگوی کوتاه، جمع‌کردن وسایل فردا و خواب؛ بدون کار سنگین
+DESCRIPTION:برنامه‌ی مهدی - دوشنبه (22:00 تا 23:00)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: گفت‌وگوی کوتاه، جمع‌کردن وسایل فردا و خواب؛ بدون کار سنگین
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_tue_1@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261027T060000
+DTEND;TZID=Asia/Tehran:20261027T063000
+RRULE:FREQ=WEEKLY;BYDAY=TU
+SUMMARY:بیدارشدن، صبحانه و آماده‌شدن + مصرف مکمل B-Complex همراه صبحانه
+DESCRIPTION:برنامه‌ی مهدی - سه‌شنبه (06:00 تا 06:30)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: بیدارشدن، صبحانه و آماده‌شدن + مصرف مکمل B-Complex همراه صبحانه
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_tue_2@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261027T063000
+DTEND;TZID=Asia/Tehran:20261027T070000
+RRULE:FREQ=WEEKLY;BYDAY=TU
+SUMMARY:هماهنگی و رفتن به پژوهشکده
+DESCRIPTION:برنامه‌ی مهدی - سه‌شنبه (06:30 تا 07:00)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: هماهنگی و رفتن به پژوهشکده
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_tue_3@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261027T070000
+DTEND;TZID=Asia/Tehran:20261027T153000
+RRULE:FREQ=WEEKLY;BYDAY=TU
+SUMMARY:پژوهشکده؛ کارهای پژوهشی و ناهار، با استراحت‌های کوتاه + مصرف Vitamin D همراه ناهار
+DESCRIPTION:برنامه‌ی مهدی - سه‌شنبه (07:00 تا 15:30)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: پژوهشکده؛ کارهای پژوهشی و ناهار، با استراحت‌های کوتاه + مصرف Vitamin D همراه ناهار
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_tue_4@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261027T153000
+DTEND;TZID=Asia/Tehran:20261027T160000
+RRULE:FREQ=WEEKLY;BYDAY=TU
+SUMMARY:مسیر باشگاه و میان‌وعده‌ی قبل تمرین
+DESCRIPTION:برنامه‌ی مهدی - سه‌شنبه (15:30 تا 16:00)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: مسیر باشگاه و میان‌وعده‌ی قبل تمرین
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_tue_5@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261027T160000
+DTEND;TZID=Asia/Tehran:20261027T173000
+RRULE:FREQ=WEEKLY;BYDAY=TU
+SUMMARY:باشگاه طبق برنامه‌ی شخصی
+DESCRIPTION:برنامه‌ی مهدی - سه‌شنبه (16:00 تا 17:30)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: باشگاه طبق برنامه‌ی شخصی
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_tue_6@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261027T173000
+DTEND;TZID=Asia/Tehran:20261027T183000
+RRULE:FREQ=WEEKLY;BYDAY=TU
+SUMMARY:برگشت به خانه، دوش، تغذیه‌ی بعد تمرین و استراحت
+DESCRIPTION:برنامه‌ی مهدی - سه‌شنبه (17:30 تا 18:30)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: برگشت به خانه، دوش، تغذیه‌ی بعد تمرین و استراحت
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_tue_7@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261027T183000
+DTEND;TZID=Asia/Tehran:20261027T191500
+RRULE:FREQ=WEEKLY;BYDAY=TU
+SUMMARY:تمرین زبان؛ ۱۵ دقیقه مکالمه با هم
+DESCRIPTION:برنامه‌ی مهدی - سه‌شنبه (18:30 تا 19:15)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: تمرین زبان؛ ۱۵ دقیقه مکالمه با هم
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_tue_8@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261027T191500
+DTEND;TZID=Asia/Tehran:20261027T200000
+RRULE:FREQ=WEEKLY;BYDAY=TU
+SUMMARY:شام و استراحت
+DESCRIPTION:برنامه‌ی مهدی - سه‌شنبه (19:15 تا 20:00)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: شام و استراحت
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_tue_9@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261027T200000
+DTEND;TZID=Asia/Tehran:20261027T210000
+RRULE:FREQ=WEEKLY;BYDAY=TU
+SUMMARY:برنامه‌ی هفتگی مرور پیشرفت‌ها، سلامت و برنامه‌ی مالی: یک هدف و یک اقدام
+DESCRIPTION:برنامه‌ی مهدی - سه‌شنبه (20:00 تا 21:00)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: برنامه‌ی هفتگی مرور پیشرفت‌ها، سلامت و برنامه‌ی مالی: یک هدف و یک اقدام
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_tue_10@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261027T210000
+DTEND;TZID=Asia/Tehran:20261027T230000
+RRULE:FREQ=WEEKLY;BYDAY=TU
+SUMMARY:قرار کوتاه بدون گوشی، ثبت یک موفقیت یا خاطره، استراحت و خواب
+DESCRIPTION:برنامه‌ی مهدی - سه‌شنبه (21:00 تا 23:00)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: قرار کوتاه بدون گوشی، ثبت یک موفقیت یا خاطره، استراحت و خواب
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_wed_1@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261028T060000
+DTEND;TZID=Asia/Tehran:20261028T063000
+RRULE:FREQ=WEEKLY;BYDAY=WE
+SUMMARY:بیدارشدن، صبحانه و آماده‌شدن + مصرف مکمل B-Complex همراه صبحانه
+DESCRIPTION:برنامه‌ی مهدی - چهارشنبه (06:00 تا 06:30)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: بیدارشدن، صبحانه و آماده‌شدن + مصرف مکمل B-Complex همراه صبحانه
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_wed_2@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261028T063000
+DTEND;TZID=Asia/Tehran:20261028T070000
+RRULE:FREQ=WEEKLY;BYDAY=WE
+SUMMARY:هماهنگی و رفتن به پژوهشکده
+DESCRIPTION:برنامه‌ی مهدی - چهارشنبه (06:30 تا 07:00)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: هماهنگی و رفتن به پژوهشکده
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_wed_3@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261028T070000
+DTEND;TZID=Asia/Tehran:20261028T153000
+RRULE:FREQ=WEEKLY;BYDAY=WE
+SUMMARY:پژوهشکده؛ کارهای پژوهشی و ناهار، با استراحت‌های کوتاه + مصرف Vitamin D همراه ناهار
+DESCRIPTION:برنامه‌ی مهدی - چهارشنبه (07:00 تا 15:30)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: پژوهشکده؛ کارهای پژوهشی و ناهار، با استراحت‌های کوتاه + مصرف Vitamin D همراه ناهار
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_wed_4@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261028T153000
+DTEND;TZID=Asia/Tehran:20261028T163000
+RRULE:FREQ=WEEKLY;BYDAY=WE
+SUMMARY:برگشت به خانه و استراحت
+DESCRIPTION:برنامه‌ی مهدی - چهارشنبه (15:30 تا 16:30)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: برگشت به خانه و استراحت
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_wed_5@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261028T163000
+DTEND;TZID=Asia/Tehran:20261028T171500
+RRULE:FREQ=WEEKLY;BYDAY=WE
+SUMMARY:پیاده‌روی سبک یا حرکات کششی؛ ریکاوری
+DESCRIPTION:برنامه‌ی مهدی - چهارشنبه (16:30 تا 17:15)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: پیاده‌روی سبک یا حرکات کششی؛ ریکاوری
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_wed_6@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261028T171500
+DTEND;TZID=Asia/Tehran:20261028T183000
+RRULE:FREQ=WEEKLY;BYDAY=WE
+SUMMARY:دوش، میان‌وعده و وقت شخصی
+DESCRIPTION:برنامه‌ی مهدی - چهارشنبه (17:15 تا 18:30)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: دوش، میان‌وعده و وقت شخصی
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_wed_7@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261028T183000
+DTEND;TZID=Asia/Tehran:20261028T191500
+RRULE:FREQ=WEEKLY;BYDAY=WE
+SUMMARY:یادگیری هوش مصنوعی و تمرین یک مهارت
+DESCRIPTION:برنامه‌ی مهدی - چهارشنبه (18:30 تا 19:15)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: یادگیری هوش مصنوعی و تمرین یک مهارت
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_wed_8@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261028T191500
+DTEND;TZID=Asia/Tehran:20261028T200000
+RRULE:FREQ=WEEKLY;BYDAY=WE
+SUMMARY:شام و استراحت
+DESCRIPTION:برنامه‌ی مهدی - چهارشنبه (19:15 تا 20:00)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: شام و استراحت
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_wed_9@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261028T200000
+DTEND;TZID=Asia/Tehran:20261028T220000
+RRULE:FREQ=WEEKLY;BYDAY=WE
+SUMMARY:۲۰ تا ۲۱: به‌روزرسانی پورتفولیو یا لینکدین؛ ۲۱ تا ۲۲: وقت شخصی؛ فرفری جونت کلاس دارد
+DESCRIPTION:برنامه‌ی مهدی - چهارشنبه (20:00 تا 22:00)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: ۲۰ تا ۲۱: به‌روزرسانی پورتفولیو یا لینکدین؛ ۲۱ تا ۲۲: وقت شخصی؛ فرفری جونت کلاس دارد
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_wed_10@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261028T220000
+DTEND;TZID=Asia/Tehran:20261028T230000
+RRULE:FREQ=WEEKLY;BYDAY=WE
+SUMMARY:گفت‌وگوی کوتاه، جمع‌کردن وسایل فردا و خواب؛ بدون کار سنگین
+DESCRIPTION:برنامه‌ی مهدی - چهارشنبه (22:00 تا 23:00)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: گفت‌وگوی کوتاه، جمع‌کردن وسایل فردا و خواب؛ بدون کار سنگین
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_thu_1@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261029T080000
+DTEND;TZID=Asia/Tehran:20261029T090000
+RRULE:FREQ=WEEKLY;BYDAY=TH
+SUMMARY:بیدارشدن و صبحانه‌ی سالم + مصرف مکمل B-Complex همراه صبحانه
+DESCRIPTION:برنامه‌ی مهدی - پنج‌شنبه (08:00 تا 09:00)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: بیدارشدن و صبحانه‌ی سالم + مصرف مکمل B-Complex همراه صبحانه
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_thu_2@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261029T090000
+DTEND;TZID=Asia/Tehran:20261029T100000
+RRULE:FREQ=WEEKLY;BYDAY=TH
+SUMMARY:مرور زبان و تمرین مکالمه‌ی مشترک
+DESCRIPTION:برنامه‌ی مهدی - پنج‌شنبه (09:00 تا 10:00)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: مرور زبان و تمرین مکالمه‌ی مشترک
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_thu_3@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261029T100000
+DTEND;TZID=Asia/Tehran:20261029T113000
+RRULE:FREQ=WEEKLY;BYDAY=TH
+SUMMARY:یادگیری یک ابزار هوش مصنوعی و تمرین مشترک
+DESCRIPTION:برنامه‌ی مهدی - پنج‌شنبه (10:00 تا 11:30)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: یادگیری یک ابزار هوش مصنوعی و تمرین مشترک
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_thu_4@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261029T113000
+DTEND;TZID=Asia/Tehran:20261029T140000
+RRULE:FREQ=WEEKLY;BYDAY=TH
+SUMMARY:خرید ضروری هفتگی، آماده‌کردن غذای سالم و ناهار + مصرف Vitamin D همراه ناهار
+DESCRIPTION:برنامه‌ی مهدی - پنج‌شنبه (11:30 تا 14:00)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: خرید ضروری هفتگی، آماده‌کردن غذای سالم و ناهار + مصرف Vitamin D همراه ناهار
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_thu_5@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261029T140000
+DTEND;TZID=Asia/Tehran:20261029T153000
+RRULE:FREQ=WEEKLY;BYDAY=TH
+SUMMARY:استراحت و وقت شخصی
+DESCRIPTION:برنامه‌ی مهدی - پنج‌شنبه (14:00 تا 15:30)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: استراحت و وقت شخصی
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_thu_6@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261029T153000
+DTEND;TZID=Asia/Tehran:20261029T173000
+RRULE:FREQ=WEEKLY;BYDAY=TH
+SUMMARY:یک تجربه‌ی تازه: کارگاه، نمایشگاه یا کشف یک جای جدید
+DESCRIPTION:برنامه‌ی مهدی - پنج‌شنبه (15:30 تا 17:30)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: یک تجربه‌ی تازه: کارگاه، نمایشگاه یا کشف یک جای جدید
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_thu_7@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261029T173000
+DTEND;TZID=Asia/Tehran:20261029T183000
+RRULE:FREQ=WEEKLY;BYDAY=TH
+SUMMARY:پیاده‌روی، نوشیدنی یا تماشای غروب متناسب با فصل
+DESCRIPTION:برنامه‌ی مهدی - پنج‌شنبه (17:30 تا 18:30)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: پیاده‌روی، نوشیدنی یا تماشای غروب متناسب با فصل
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_thu_8@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261029T183000
+DTEND;TZID=Asia/Tehran:20261029T200000
+RRULE:FREQ=WEEKLY;BYDAY=TH
+SUMMARY:شام و استراحت
+DESCRIPTION:برنامه‌ی مهدی - پنج‌شنبه (18:30 تا 20:00)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: شام و استراحت
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_thu_9@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261029T200000
+DTEND;TZID=Asia/Tehran:20261029T210000
+RRULE:FREQ=WEEKLY;BYDAY=TH
+SUMMARY:دفتر آرزوها و برنامه‌ی چرخشی ماهانه؛ سپس بازی یا موسیقی
+DESCRIPTION:برنامه‌ی مهدی - پنج‌شنبه (20:00 تا 21:00)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: دفتر آرزوها و برنامه‌ی چرخشی ماهانه؛ سپس بازی یا موسیقی
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_thu_10@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261029T210000
+DTEND;TZID=Asia/Tehran:20261029T230000
+RRULE:FREQ=WEEKLY;BYDAY=TH
+SUMMARY:وقت آزاد دونفره، بدون برنامه‌ی کاری؛ آماده‌شدن برای خواب
+DESCRIPTION:برنامه‌ی مهدی - پنج‌شنبه (21:00 تا 23:00)
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: وقت آزاد دونفره، بدون برنامه‌ی کاری؛ آماده‌شدن برای خواب
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_monthly_w1@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261105T200000
+DTEND;TZID=Asia/Tehran:20261105T210000
+RRULE:FREQ=MONTHLY;BYDAY=1TH
+SUMMARY:[برنامه ماهانه] پنج‌شنبه‌ی اول ماه: مرور رابطه و سلامت (خواب، انرژی و مکمل‌ها)
+DESCRIPTION:برنامه‌ی مهدی - برنامه‌ی چرخشی ماهانه (جایگزین بازه ۲۰ تا ۲۱ پنج‌شنبه)
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:پنج‌شنبه‌ی اول ماه: مرور رابطه و سلامت (خواب، انرژی و مکمل‌ها)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_monthly_w2@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261105T200000
+DTEND;TZID=Asia/Tehran:20261105T210000
+RRULE:FREQ=MONTHLY;BYDAY=2TH
+SUMMARY:[برنامه ماهانه] پنج‌شنبه‌ی دوم ماه: بررسی هدف‌ها و بودجه‌ی ماهانه
+DESCRIPTION:برنامه‌ی مهدی - برنامه‌ی چرخشی ماهانه (جایگزین بازه ۲۰ تا ۲۱ پنج‌شنبه)
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:پنج‌شنبه‌ی دوم ماه: بررسی هدف‌ها و بودجه‌ی ماهانه
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_monthly_w3@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261105T200000
+DTEND;TZID=Asia/Tehran:20261105T210000
+RRULE:FREQ=MONTHLY;BYDAY=3TH
+SUMMARY:[برنامه ماهانه] پنج‌شنبه‌ی سوم ماه: مرور آینده‌ی شغلی و پژوهشی
+DESCRIPTION:برنامه‌ی مهدی - برنامه‌ی چرخشی ماهانه (جایگزین بازه ۲۰ تا ۲۱ پنج‌شنبه)
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:پنج‌شنبه‌ی سوم ماه: مرور آینده‌ی شغلی و پژوهشی
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mahdi_monthly_w4@faezehmahdi.schedule
+DTSTART;TZID=Asia/Tehran:20261105T200000
+DTEND;TZID=Asia/Tehran:20261105T210000
+RRULE:FREQ=MONTHLY;BYDAY=4TH
+SUMMARY:[برنامه ماهانه] پنج‌شنبه‌ی چهارم ماه: نوشتن نامه یا ویژن‌بورد + شارژ مکمل‌های B-Complex و Vitamin D
+DESCRIPTION:برنامه‌ی مهدی - برنامه‌ی چرخشی ماهانه (جایگزین بازه ۲۰ تا ۲۱ پنج‌شنبه)
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:پنج‌شنبه‌ی چهارم ماه: نوشتن نامه یا ویژن‌بورد + شارژ مکمل‌های B-Complex و Vitamin D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
